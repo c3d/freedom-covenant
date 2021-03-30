@@ -1,6 +1,6 @@
                           THE FREEDOM COVENANT
 
-                      Version 1.01, March 30, 2021
+                      Version 1.02, March 30, 2021
 
 
 Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
@@ -31,9 +31,8 @@ principles of this covenant:
       5. Forgive and apologize
       6. Discuss
       7. Contribute and be thankful
-      8. No threat, no retribution
-      9. Judge privately, if at all
-     10. Act out of love
+      8. Friendly feedback
+      9. Act out of love
 
 By adhering to this covenant, you simply agree that these principles are in line
 with how you want to act, and you encourage others to gently remind you of these
@@ -161,8 +160,8 @@ as possible in your opinions, but remain aware of what you don't know.
 
 Treat your opinions and the opinions of others with the same respect. If you
 cannot hear a dissenting opinion without feeling uncomfortable, work on yourself
-before trying to change other people's mind. If only because the chances that
-you can change yourself are much higher.
+before trying to change other people's mind -- if only because the chances that
+you can change yourself are somewhat higher.
 
 It's better to end a conversation with "I learned something today" than with
 "let's agree to disagree". The first sentence acknowledges the other person's
@@ -216,13 +215,8 @@ participants. This is the true measure of success.
 
 7. Contribute and be thankful
 
-An often under-appreciated freedom is the freedom to contribute. However, this
-freedom is the primary reason for the success of Free Software.
-
-There is no obligation whatsoever to contribute, but being merely a consumer of
-Free Software does not give you any particular right. What really gives anyone a
-place and a role in the Free Software movement is the contributions made. In
-this movement, anyone is welcome, anyone can contribute.
+An often under-appreciated aspect of Free Software is the freedom to contribute.
+Yet this freedom is the primary reason for the success of the movement.
 
 Free Software is an incredible gift, that now powers many aspects of our lives.
 We need to be thankful for all the amazing contributors who dedicated time and
@@ -230,8 +224,9 @@ talent to this collective endeavour.
 
 One way to be thankful is to improve on the existing work, and to add your own
 personal piece to it. Free Software is that place where even correcting someone
-else's mistake is best seen as a mark of appreciation and respect. This constant
-feedback loop is what makes Free Software so good.
+else's mistake is seen as a true mark of appreciation and respect. This constant
+feedback loop is what makes Free Software so good. Anyone willing is welcome to
+contribute. Nobody needs anyone else's permission to get started.
 
 This does not just apply to code, but to the community as well. Discussion,
 debate and even sharp criticism are essential to achieving true freedom.
@@ -240,61 +235,48 @@ happens regularly. However, our love for the code and for the contributors means
 that our objective should always be improvement, not destruction.
 
 
-8. No threat, no retribution
+8. Friendly feedback
 
-In the face of conducts we find particularly egregious, we can be tempted resort
-to forceful tactics such as threats or retribution.
+Nothing we do is ever perfect, and Free Software is no exception. Bad code, bad
+processes or bad behaviors are inevitable, and we continuously seek to redress
+such situations. Good code, good processes and good behaviors are much harder to
+achieve. They require a lot of effort, and require ongoing motivation and
+continuous engagement.
 
-Free Software is now a force to reckon with, and with that success came power.
-The usual power structures have appeared in our movement, including money,
-politics and large corporations. With these power structure came the temptation
-to use or even abuse one's power. Resisting this temptation is hard.
+Therefore, praise liberally and publicly, show appreciation whenever you can.
+A mere "thank you" goes a long way towards making someone have a nice day.
+Showing sincere signs of appreciation is the most efficient guide to greatness.
 
-This exercise of power directly conflicts with the primary objective of
-preserving individual freedom. As an individual, anyone is perfectly entitled to
-their own opinions. Anyone should feel free to express their opinions privately
-or publicly. The limit of one person's freedom, however, is other people's
-freedom. This is where conflicts arise.
+Conversely, show restraint and moderation in your negative judgments.
+Having a negative opinion of a piece of code or of an individual is part of your
+fundamental freedom. But it is rarely productive to express it aloud.
+Complaining publicly that some code is a piece of crap never fixed a bug.
+Privately holding that opinion, on the other hand, may be a powerful motivator
+to fix that sad piece of utter junk obviously written by a drunk monkey - Oh,
+wait, that was me!
 
-Like any community, Free Software needs to balance individual freedom on one
-hand and behaviors that may be collectively harmful on the other hand, and this
-is extremely hard to do, in particular because Free Software only has money and
-corporations, but nothing like police or justice.
+Should a need arise for some kind of more serious corrective action, try to do
+so in a way that respects the individual freedoms of everyone at hand. Remain
+friendly, and always seek a positive resolution.
 
-Not having a police or justice of our own does not give us any right to make
-our own justice, quite to the contrary. Threats or demands of retribution have
-no place in Free Software. This is true in both directions, whether a prominent
-contributor misbehaves or whether a collective targets a possibly prominent
-member of the community.
+Start with friendly, private feedback, stating as clearly as possible the
+problem that you see and the most important improvement that you have in mind.
+If that fails, consider bringing a small group of individuals to discuss the
+problem. If you need to resort to to a vote or similar arbitration mechanism to
+resolve a conflict, be ready to accept an outcome that does not go your way.
 
+Coercive actions, public threats, insults or collective retaliation are almost
+never justified nor justifable, because they infringe on the basic freedom of
+the targets of the action. Irrespective of who is involved, such actions run
+directly counter to the most fundamental value of Free Software, freedom.
 
-9. Judge privately, if at all
-
-Making one's own judgment on a piece of code or on an individual is a right and
-a fundamental freedom. It may guide your personal actions and decisions.
-
-Any judgment is, generally speaking, an opinion. As such, must be shared
-with moderation, no matter how well informed it may be. Negative judgments in
-particular have more chances to do harm than any other opinion.
-
-For example, you may think that some code is a "piece of crap", or that some
-individual is "insufferable". Publicly expressing such a negative jugement will
-rarely help fixing anything.
-
-For code, documentation, processes like for individual, always prefer
-forgiveness, always put love first. Try to make the community better by making
-things better than you found them.
-
-It's always more difficult to discuss, convince and forgive than to silence,
-coerce and punish. However, it is the right thing to do, and this is what our
-freedom and love for one another and for the projects we build together demand.
-
-Note that this applies only to negative judgements.
-Do not hesitate to share praise publicly and liberally.
+It is always more difficult to discuss, convince and forgive than to silence,
+coerce and punish. However, it remains the right thing to do, because this is
+the only approach that truly respects individual freedoms.
 
 
-10. Act out of love
+9. Act out of love
 
 This brings us back full circle.
 
-Act out of love to bring the best in yourself and in the community.
+Acting out of love brings the best in us as well as in the community.

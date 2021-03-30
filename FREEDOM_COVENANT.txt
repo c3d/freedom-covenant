@@ -1,6 +1,6 @@
                           THE FREEDOM COVENANT
 
-                      Version 1.02, March 30, 2021
+                      Version 1.03, March 30, 2021
 
 
 Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
@@ -159,14 +159,14 @@ opinions are what fueled progress in science. Of course, try to be as informed
 as possible in your opinions, but remain aware of what you don't know.
 
 Treat your opinions and the opinions of others with the same respect. If you
-cannot hear a dissenting opinion without feeling uncomfortable, work on yourself
-before trying to change other people's mind -- if only because the chances that
-you can change yourself are somewhat higher.
+cannot hear a dissenting viewpoint without feeling uncomfortable, work on
+yourself before trying to change other people's mind -- if only because the
+chances that you can change yourself are somewhat higher.
 
-It's better to end a conversation with "I learned something today" than with
-"let's agree to disagree". The first sentence acknowledges the other person's
-opinion and opens the discussion, the second sentence is a sneaky way to state
-that you feel your opinion is superior and to shut down any further dialogue.
+Try to acknowledge disagreement in a way that maintains the dialogue open.
+It may be better to use a phrase like "I learned something today" than a phrase
+like "let's agree to disagree", since the latter can more easily be interpreted
+as "let's end of discussion here".
 
 
 5. Forgive and apologize

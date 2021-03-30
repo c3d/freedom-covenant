@@ -1,0 +1,283 @@
+                          THE FREEDOM COVENANT
+
+                      Version 1.0, March 30, 2021
+
+
+Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
+pointed out, is not about "free beer", but about "free speech". In other words,
+the freedom of free software corresponds not to the French word "gratuit", but
+to a much nobler word, "Liberté", the first of the three pillars of the French
+motto, "Liberté, Égalité, Fraternité".
+
+Freedom has always been under attack, and Free Software is no exception.
+The natural tendency of human beings is to grab power, and achieving that
+objective very often requires, in the mind of the power grabber, the restriction
+of freedom of others. From shrink-wrap licenses to dictatorial regimes, the same
+principle applies in a continuum: restricting someone's freedom to gain power.
+
+It takes courageous individuals to go against that innate desire for power and
+truly defend freedom. Courage is needed because accepting the freedom for
+others requires a deliberate and conscious restraint of one's own.
+
+This document is a covenant that you can freely adopt as a reminder of what it
+takes to truly respect the freedom of others around you. Here are the guiding
+principles of this covenant:
+
+      0. Act out of love
+      1. Speak the truth
+      2. Share your facts
+      3. Mind your feelings
+      4. Keep your opinions
+      5. Forgive and apologize
+      6. Discuss
+      7. Contribute and be thankful
+      8. No threat, no retribution
+      9. Judge privately
+     10. Act out of love
+
+By adhering to this covenant, you simply agree that these principles are in line
+with how you want to act, and you encourage others to gently remind you of these
+principles should you violate them.
+
+
+                        END OF THE FREEDOM COVENANT
+
+--------------------------------------------------------------------------------
+
+If you agree with this covenant, simply share it along, for example by putting
+it in your repositories or on your web sites. If you disagree with part or all
+of the wording, feel free to make alterations and to share your suggestions back
+to https://github.com/c3d/freedom-covenant or
+   https://gitlab.com/c3d/freedom-covenant
+
+--------------------------------------------------------------------------------
+
+
+                                DISCUSSION
+
+Here is a more in-depth discussion of the meaning of the principles outlined
+above, highlighting how and why they relate to freedom.
+
+
+0. Act out of love
+
+The best contributors to Free Software are often very passionate individuals,
+who can talk about their projects for hours, and more if beer is involved.
+This passion can be harnessed in a positive way, but it can also easily lead
+down a destructive path, including anger or hatred.
+
+Love, whether for individuals or for the products you work on, is the best
+remedy against such negative passions. By loving others, you can fully enjoy
+their freedom, and be happy with them when they exercise it.
+
+When individual you love do something that you disagree with, acting out of love
+will ensure that you seek a resolution that is in their best interest, instead
+of attempting to gain control over them and restrain their freedom.
+
+Even in the worst case, we should seek to act towards one another like a parent
+teaching a misbehaving kid more than like a cop putting a criminal in jail.
+
+
+1. Speak the truth
+
+Freedom applies to yourself, and that includes your right to say what you
+believe to be true, irrespective of what others may think about it.
+
+If you are in a position where you cannot say what you truly believe, your
+liberty has already been infringed upon. It is already way past time to find the
+courage to speak up. Be ready for the consequences, because those who reveal
+inconvenient truths are not welcome by those who need silence to preserve
+their own power. This is one of the prices to pay for freedom.
+
+Like all others, this principle is subject to principle 0. You may chose to
+refrain from stating things that you believe to be true, simply because they may
+cause harm to others. You need to carefully balance the need for openness and
+transparency with the right to privacy or beliefs.
+
+Be mindful that you don't own the objective truth. You can at best state what
+you sincerely believe is true. As a result, you need to fully accept that
+others, following the same guiding principle, may still end up with a different
+or even opposite belief. Speaking the truth requires remaining open to the truth
+at all times, and therefore being ready to change your mind.
+
+The right to shout "fire" in a crowded theater is often cited as an example of
+limit to free speech. But if there is a fire, you should feel obligated to shout
+"fire" even if this may cause a panic and other harm.
+
+
+2. Share your facts
+
+True freedom depends on accurate information. Nobody can make an informed
+decision without having correct data.
+
+Therefore, your respect for the freedom of others require that you share any
+fact you have that is relevant to their own decision making. This sharing
+should include not just the conclusions, but also ways for others to verify your
+facts, such as sources, tools or methods.
+
+To understand how this relates to freedom, imagine that you get run over by a
+bus. Do others around you still have a way to make progress without you? If not,
+would it be because you held onto a parcel of personal power? Do not
+deliberately hold to information even if that grants you a little more power.
+
+
+3. Mind your feelings
+
+We all have feelings, and they may be overwhelming. Unlike facts, however,
+feelings are difficult to share and communicate, and they are often not directly
+relevant or applicable to others.
+
+As a result, there are two equally bad ways to deal with feelings: bottling them
+up, or treating them as universal facts.
+
+Bottling feelings up is bad, because it will lead you to behaviors that will
+appear erratic or hard to understand to others. In doing so, you deprive them of
+facts that are actually relevant in their interaction with you.
+
+On the other hand, your feelings are not universally acceptable facts. They are
+personal emotions that others may not feel at all. This includes feelings such
+as outrage, pride, joy or love.
+
+It is perfectly OK to share that you are outraged by someone's actions, but it
+is not acceptable to demand that everyone be outraged the same way, just as it
+is ridiculous to assume that everyone loves chocolate simply because you do.
+
+
+4. Keep your opinions
+
+Like feelings, opinions are personal. Like feelings, they can be shared, but
+they will not be universally accepted.
+
+If you have trouble distinguishing facts from opinions, a good rule of thumb is
+that opinions are ideas others can disagree with. The vast majority of what we
+often incorrectly treat as facts are, in reality, mere opinions. This include
+all the statements in this document, which represent only the opinions of its
+author.
+
+Freedom includes the freedom of opinion. This means that you can keep your
+opinion and do not have to subject it to any kind of majority rule. Dissenting
+opinions are what fueled progress in science. Of course, try to be as informed
+as possible in your opinions, but remain aware of what you don't know.
+
+Treat your opinions and the opinions of others with the same respect. If you
+cannot hear a dissenting opinion without feeling uncomfortable, work on yourself
+before trying to change other people's mind. If only because the chances that
+you can change yourself are much higher.
+
+It's better to end a conversation with "I learned something today" than with
+"let's agree to disagree". The first sentence acknowledges the other person's
+opinion and opens the discussion, the second sentence is a sneaky way to state
+that you feel your opinion is superior and to shut down any further dialogue.
+
+
+5. Forgive and apologize
+
+We all make mistakes. What makes a difference is how we deal with them.
+
+Even without any ill-will or deliberate intent, we may cause harm. Apologies
+help soothe bad feelings, irrespective of any objective fault. I am often not
+the best person to judge if someone else was harmed by what I did, so I'd better
+be cautious and conservative about it. Feel free to apologize even if you truly
+believe you did nothing wrong.
+
+The necessary counterpart to apologies is true forgiveness. Forgiveness is not
+about forgetting problems, but about putting them behind us. Since we are
+creature of habit, we often repeat our mistakes, so we often need to forgive the
+same person multiple times for the same offense. This is the mark of true
+courage and strength.
+
+Apologies and forgiveness restore our freedom. They allow us to return to a
+normal train of thought that is not obsessed with the harm done.
+
+
+6. Discuss
+
+We are social creatures, and we cannot truly be free if we are isolated.
+Do make any progress together, we need a constant exchange of ideas, an ongoing
+discussion. Interrupted dialogue is often the first sign of something going
+wrong.
+
+The style of the discussion is something that is extremely personal. Individuals
+that are closer to one another will often speed up the discussion by using more
+direct language than they would with more distant third parties.
+
+On our modern electronic communication channels, this often leads to incorrect
+interpretation of the "tone" of the discussion, because the person who wrote had
+one particular person in mind, but the message is read personally by all
+others. This has been the source of many misinterpretations.
+
+This is why it is extremely important to remember the earlier principles during
+any discussion, and notably to be able to separate facts, feelings and opinions,
+as well as to express quick apologies and forgiveness.
+
+A good discussion increases the level of love, trust and respect between
+participants. This is the true measure of success.
+
+
+7. Contribute and be thankful
+
+An often under-appreciated freedom is the freedom to contribute. However, this
+freedom is the primary reason for the success of Free Software.
+
+There is no obligation whatsoever to contribute, but being merely a consumer of
+Free Software does not give you any particular right. What gives you a place in
+the Free Software movement is the contributions you made, and nothing else.
+
+It naturally follows that the amount and importance of individual contributions
+are a primary metric and driver for the recognition they receive from the
+community. This is often called "meritocracy". The hierarchy that results makes
+some people uncomfortable, as being inegalitarian, or because it gives a
+prominent role to an individual you disagree with for other reasons.
+
+The correct attitude, however, is to be thankful for the contributions of
+others, not to be jealous or resentful. The personal flaws of individual
+contributors are generally not hard to find, but forgiveness and love should
+guide us, not pettiness. Shining the spotlight on someone else's flaws may not
+be the best way to contribute to the community.
+
+
+8. No threat, no retribution
+
+In a number of recent cases, major contributors have been the subject to
+threats, harassment or mob lynching for personal opinions or past public
+statements, in particular when such statements went against powerful political
+agendas.
+
+Nothing could be further from the Free Software movement ideals than this kind
+of vengeful action.. Harassment does not serve the cause of freedom. Mob
+lynching does not serve the cause of justice.
+
+As an individual, anyone is perfectly entitled to their own opinions. Anyone
+should feel free to express them privately or publicly. The limit of one
+person's freedom, however, is other people's freedom.
+
+Nobody has any right whatsoever to threaten another individual or to demand
+retribution against them. Such demands should be politely ignored or laughed
+at, because they are direct attacks on freedom itself.
+
+Sharing facts requires us to acknowledge that such attacks are been made, on an
+all-too-regular basis, by members of our own community. If you adhere to this
+covenant, chances are you may also want to speak up against such actions, which
+are a dark stain of petty dictatorship on the Free Software movement.
+
+
+9. Judge privately
+
+This does not mean that you should not be personally critical of the actions of
+an individual, and that you should not make your own judgment.
+
+Making one's own judgment is a right and a fundamental freedom. It may guide
+your personal actions and decisions. However, do not be too quick to being
+overly judge mental, in particular in public.
+
+Always prefer forgiveness, always put love first. Try to make the community
+better by making individuals better. It's always more difficult to discuss,
+convince and forgive than to silence, coerce and punish. However, it is the
+right thing to do, and this is what our community demands.
+
+
+10. Act out of love
+
+This brings us back full circle.
+
+Act out of love to bring the best in yourself and in the community.

@@ -1,6 +1,6 @@
                           THE FREEDOM COVENANT
 
-                      Version 1.0, March 30, 2021
+                      Version 1.01, March 30, 2021
 
 
 Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
@@ -32,7 +32,7 @@ principles of this covenant:
       6. Discuss
       7. Contribute and be thankful
       8. No threat, no retribution
-      9. Judge privately
+      9. Judge privately, if at all
      10. Act out of love
 
 By adhering to this covenant, you simply agree that these principles are in line
@@ -220,60 +220,77 @@ An often under-appreciated freedom is the freedom to contribute. However, this
 freedom is the primary reason for the success of Free Software.
 
 There is no obligation whatsoever to contribute, but being merely a consumer of
-Free Software does not give you any particular right. What gives you a place in
-the Free Software movement is the contributions you made, and nothing else.
+Free Software does not give you any particular right. What really gives anyone a
+place and a role in the Free Software movement is the contributions made. In
+this movement, anyone is welcome, anyone can contribute.
 
-It naturally follows that the amount and importance of individual contributions
-are a primary metric and driver for the recognition they receive from the
-community. This is often called "meritocracy". The hierarchy that results makes
-some people uncomfortable, as being inegalitarian, or because it gives a
-prominent role to an individual you disagree with for other reasons.
+Free Software is an incredible gift, that now powers many aspects of our lives.
+We need to be thankful for all the amazing contributors who dedicated time and
+talent to this collective endeavour.
 
-The correct attitude, however, is to be thankful for the contributions of
-others, not to be jealous or resentful. The personal flaws of individual
-contributors are generally not hard to find, but forgiveness and love should
-guide us, not pettiness. Shining the spotlight on someone else's flaws may not
-be the best way to contribute to the community.
+One way to be thankful is to improve on the existing work, and to add your own
+personal piece to it. Free Software is that place where even correcting someone
+else's mistake is best seen as a mark of appreciation and respect. This constant
+feedback loop is what makes Free Software so good.
+
+This does not just apply to code, but to the community as well. Discussion,
+debate and even sharp criticism are essential to achieving true freedom.
+In particular, criticism of problematic individual behaviors is necessary, and
+happens regularly. However, our love for the code and for the contributors means
+that our objective should always be improvement, not destruction.
 
 
 8. No threat, no retribution
 
-In a number of recent cases, major contributors have been the subject to
-threats, harassment or mob lynching for personal opinions or past public
-statements, in particular when such statements went against powerful political
-agendas.
+In the face of conducts we find particularly egregious, we can be tempted resort
+to forceful tactics such as threats or retribution.
 
-Nothing could be further from the Free Software movement ideals than this kind
-of vengeful action.. Harassment does not serve the cause of freedom. Mob
-lynching does not serve the cause of justice.
+Free Software is now a force to reckon with, and with that success came power.
+The usual power structures have appeared in our movement, including money,
+politics and large corporations. With these power structure came the temptation
+to use or even abuse one's power. Resisting this temptation is hard.
 
-As an individual, anyone is perfectly entitled to their own opinions. Anyone
-should feel free to express them privately or publicly. The limit of one
-person's freedom, however, is other people's freedom.
+This exercise of power directly conflicts with the primary objective of
+preserving individual freedom. As an individual, anyone is perfectly entitled to
+their own opinions. Anyone should feel free to express their opinions privately
+or publicly. The limit of one person's freedom, however, is other people's
+freedom. This is where conflicts arise.
 
-Nobody has any right whatsoever to threaten another individual or to demand
-retribution against them. Such demands should be politely ignored or laughed
-at, because they are direct attacks on freedom itself.
+Like any community, Free Software needs to balance individual freedom on one
+hand and behaviors that may be collectively harmful on the other hand, and this
+is extremely hard to do, in particular because Free Software only has money and
+corporations, but nothing like police or justice.
 
-Sharing facts requires us to acknowledge that such attacks are been made, on an
-all-too-regular basis, by members of our own community. If you adhere to this
-covenant, chances are you may also want to speak up against such actions, which
-are a dark stain of petty dictatorship on the Free Software movement.
+Not having a police or justice of our own does not give us any right to make
+our own justice, quite to the contrary. Threats or demands of retribution have
+no place in Free Software. This is true in both directions, whether a prominent
+contributor misbehaves or whether a collective targets a possibly prominent
+member of the community.
 
 
-9. Judge privately
+9. Judge privately, if at all
 
-This does not mean that you should not be personally critical of the actions of
-an individual, and that you should not make your own judgment.
+Making one's own judgment on a piece of code or on an individual is a right and
+a fundamental freedom. It may guide your personal actions and decisions.
 
-Making one's own judgment is a right and a fundamental freedom. It may guide
-your personal actions and decisions. However, do not be too quick to being
-overly judge mental, in particular in public.
+Any judgment is, generally speaking, an opinion. As such, must be shared
+with moderation, no matter how well informed it may be. Negative judgments in
+particular have more chances to do harm than any other opinion.
 
-Always prefer forgiveness, always put love first. Try to make the community
-better by making individuals better. It's always more difficult to discuss,
-convince and forgive than to silence, coerce and punish. However, it is the
-right thing to do, and this is what our community demands.
+For example, you may think that some code is a "piece of crap", or that some
+individual is "insufferable". Publicly expressing such a negative jugement will
+rarely help fixing anything.
+
+For code, documentation, processes like for individual, always prefer
+forgiveness, always put love first. Try to make the community better by making
+things better than you found them.
+
+It's always more difficult to discuss, convince and forgive than to silence,
+coerce and punish. However, it is the right thing to do, and this is what our
+freedom and love for one another and for the projects we build together demand.
+
+Note that this applies only to negative judgements.
+Do not hesitate to share praise publicly and liberally.
 
 
 10. Act out of love

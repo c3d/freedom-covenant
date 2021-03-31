@@ -1,6 +1,6 @@
                           THE FREEDOM COVENANT
 
-                      Version 1.03, March 30, 2021
+                      Version 1.04, March 30, 2021
 
 
 Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
@@ -31,7 +31,7 @@ principles of this covenant:
       5. Forgive and apologize
       6. Discuss
       7. Contribute and be thankful
-      8. Friendly feedback
+      8. Provide friendly feedback
       9. Act out of love
 
 By adhering to this covenant, you simply agree that these principles are in line
@@ -235,7 +235,7 @@ happens regularly. However, our love for the code and for the contributors means
 that our objective should always be improvement, not destruction.
 
 
-8. Friendly feedback
+8. Provide friendly feedback
 
 Nothing we do is ever perfect, and Free Software is no exception. Bad code, bad
 processes or bad behaviors are inevitable, and we continuously seek to redress

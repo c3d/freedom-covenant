@@ -49,6 +49,8 @@ of the wording, feel free to make alterations and to share your suggestions back
 to https://github.com/c3d/freedom-covenant or
    https://gitlab.com/c3d/freedom-covenant
 
+At your convenience, you may also fork this document and alter it to suit you.
+
 --------------------------------------------------------------------------------
 
 

@@ -294,7 +294,7 @@ problem. If you need to resort to to a vote or similar arbitration mechanism to
 resolve a conflict, be ready to accept an outcome that does not go your way.
 
 Coercive actions, public threats, insults or collective retaliation are almost
-never justified nor justifable, because they infringe on the basic freedom of
+never justified nor justifiable, because they infringe on the basic freedom of
 the targets of the action. Irrespective of who is involved, such actions run
 directly counter to the most fundamental value of Free Software, freedom.
 

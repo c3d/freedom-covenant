@@ -1,6 +1,6 @@
                           THE FREEDOM COVENANT
 
-                      Version 1.05, March 30, 2021
+                      Version 1.06, March 30, 2021
 
 
 Free Software is all about freedom. This freedom, as Richard Stallman repeatedly
@@ -24,11 +24,11 @@ others often requires a deliberate and conscious restraint of one's own.
 
 In addition to courage, defending freedom could use tools and methods, because
 our daily routine makes it easy to overlook admirable core principles.
-Our words and our deeds rarely align. Doing is harder than willing.
+Our words and our deeds rarely align. Doing is harder than wishing.
 
-This is the reason for this covenant, which can freely adopt as a reminder of
-what it takes to truly respect the freedom of others around you. Here are the
-guiding principles of this covenant:
+This is the reason for this covenant, which anyone can freely adopt as a
+reminder of what it takes to truly respect the freedom of others.
+Here are the guiding principles of this covenant:
 
       0. Act out of love
       1. Speak the truth
@@ -41,8 +41,8 @@ guiding principles of this covenant:
       8. Provide friendly feedback
       9. Act out of love
 
-By publicly adhering to this covenant, or a variant therefore that suits your
-personal taste better, you simply agree that these principles are in line with
+By publicly adhering to this covenant, or any variant thereof that suits your
+personal taste better, you simply state that these principles are in line with
 how you want to act, and you encourage others to gently remind you of these
 principles should you violate them.
 
@@ -51,16 +51,27 @@ principles should you violate them.
 
 --------------------------------------------------------------------------------
 
-If you agree with this covenant, simply share it along, for example by putting
-it in your repositories or on your web sites. If you disagree with part or all
-of the wording, feel free to adapt it to your preference.
+                                   USAGE
 
-Should you make alterations that you think are valuable to others, please share
-them back through the original repositories. I will do my best to integrate the
-changes that I like, and to record other variants as git branches. Viva git!
+If you agree with this covenant, simply share it along, for example by putting
+it in your repositories, on your web sites or linking to it in your signature.
+
+If you disagree with part or all of the wording, feel free to adapt it to your
+preference or even write your own freedom covenant.
+
+Should you make alterations to this text that you think are valuable to others,
+please share them back through the repositories below. I will do my best to
+integrate the changes that I personally like (which includes any correction to
+spelling or grammar), and to record changes I dislike as publicly visible git
+branches in the repository so that others can choose them at their preference.
 
        https://github.com/c3d/freedom-covenant
        https://gitlab.com/c3d/freedom-covenant
+
+Free Software projects are encouraged to adopt this covenant as a guideline,
+with the full understanding that adhering to such a covenant can only be a
+personal and free decision, and should never be required from anyone.
+This covenant is specifically not written as an enforceable code of conduct.
 
 --------------------------------------------------------------------------------
 

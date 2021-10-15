@@ -173,18 +173,18 @@ they will not be universally accepted.
 
 If you have trouble distinguishing facts from opinions, a good rule of thumb is
 that opinions are ideas others can disagree with. The vast majority of what we
-often incorrectly treat as facts are, in reality, mere opinions. This include
+often incorrectly treat as facts are, in reality, mere opinions. This includes
 all the statements in this document, which represent only the opinions of its
 author.
 
 Freedom includes the freedom of opinion. This means that you can keep your
 opinion and do not have to subject it to any kind of majority rule. Dissenting
-opinions are what fueled progress in science. Of course, try to be as informed
-as possible in your opinions, but remain aware of what you don't know.
+opinions are what fuel progress in science. Of course, try to be as informed as
+possible in your opinions, but remain aware of what you don't know.
 
 Treat your opinions and the opinions of others with the same respect. If you
 cannot hear a dissenting viewpoint without feeling uncomfortable, work on
-yourself before trying to change other people's mind -- if only because the
+yourself before trying to change other people's minds -- if only because the
 chances that you can change yourself are somewhat higher.
 
 Try to acknowledge disagreement in a way that maintains the dialogue open.
@@ -205,8 +205,8 @@ believe you did nothing wrong.
 
 The necessary counterpart to apologies is true forgiveness. Forgiveness is not
 about forgetting problems, but about putting them behind us. Since we are
-creature of habit, we often repeat our mistakes, so we often need to forgive the
-same person multiple times for the same offense. This is the mark of true
+creatures of habit, we often repeat our mistakes, so we often need to forgive
+the same person multiple times for the same offense. This is a mark of true
 courage and strength.
 
 Apologies and forgiveness restore our freedom. They allow us to return to a
@@ -221,7 +221,7 @@ discussion. Interrupted dialogue is often the first sign of something going
 wrong.
 
 The style of the discussion is something that is extremely personal. Individuals
-that are closer to one another will often speed up the discussion by using more
+who are closer to one another will often speed up the discussion by using more
 direct language than they would with more distant third parties.
 
 On our modern electronic communication channels, this often leads to incorrect
@@ -247,7 +247,7 @@ An often under-appreciated aspect of Free Software is the freedom to contribute.
 Yet this freedom is the primary reason for the success of the movement.
 
 Free Software is an incredible gift, that now powers many aspects of our lives.
-We need to be thankful for all the amazing contributors who dedicated time and
+We need to be thankful for all the amazing contributors who dedicate time and
 talent to this collective endeavour.
 
 One way to be thankful is to improve on the existing work, and to add your own
@@ -290,7 +290,7 @@ friendly, and always seek a positive resolution.
 Start with friendly, private feedback, stating as clearly as possible the
 problem that you see and the most important improvement that you have in mind.
 If that fails, consider bringing a small group of individuals to discuss the
-problem. If you need to resort to to a vote or similar arbitration mechanism to
+problem. If you need to resort to a vote or similar arbitration mechanism to
 resolve a conflict, be ready to accept an outcome that does not go your way.
 
 Coercive actions, public threats, insults or collective retaliation are almost
